@@ -53,7 +53,7 @@ You can download SNLI from the official source:
 
 Or you can get it on:
 
-[SNLI Dataset on Hugging Face](https://huggingface.co/datasets/stanfordnlp/snli)
+- [SNLI Dataset on Hugging Face](https://huggingface.co/datasets/stanfordnlp/snli)
 
 
 ---
