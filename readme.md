@@ -27,7 +27,7 @@ This allows the trained model to be used for tasks such as:
 
 The model is built on top of:
 
-- [`roberta-base`](https://huggingface.co/roberta-base)
+- pretrained [`roberta-base`](https://huggingface.co/roberta-base)
 
 ### Forward pipeline
 
