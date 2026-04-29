@@ -1,6 +1,6 @@
 # RoBERTa Sentence Embedding Model using SNLI
 
-This project fine-tunes **RoBERTa** to build a **sentence embedding model** using the **SNLI (Stanford Natural Language Inference)** dataset.  
+The project fine-tunes **RoBERTa** to build a **sentence embedding model** using the **SNLI (Stanford Natural Language Inference)** dataset.  
 Instead of training a standard classification head, this project trains RoBERTa to map semantically similar sentences close together in vector space and dissimilar sentences farther apart using **cosine similarity loss**.
 
 ---
